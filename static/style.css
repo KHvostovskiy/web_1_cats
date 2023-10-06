@@ -1,0 +1,70 @@
+h1 {
+    text-align: center;
+    color: rgb(103, 37, 255);
+    text-shadow: rgb(46, 0, 88) 1px 1px 0, rgb(46, 0, 88) -1px -1px 0, 
+    rgb(46, 0, 88) -1px 1px 0, rgb(46, 0, 88) 1px -1px 0;  
+}
+h2 {
+    margin-left:2%;
+    color: rgb(255, 255, 255)
+}
+h3 {
+    margin-left:2%;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+h4 {
+    text-align: center;
+    color: rgb(201, 201, 201);
+    font-family: pixel;
+    font-size: small!important;
+}
+hr {
+    border: none !important; /* Убираем границу */
+    background-color: rgb(140, 0, 255) !important; /* Цвет линии */
+    height: 5px !important; /* Толщина линии */
+    margin-right: 15% !important;
+    margin-left: 15% !important;
+    border-radius: 2px !important;
+   }
+.bodystyle {
+    background: linear-gradient(90deg, #f7c8ff, #fafac5) no-repeat; 
+    min-height: 950px;
+    /*background-image: url(/static/starsbg.jpg);*/
+}
+.text {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 18px;
+    color: rgb(255, 255, 255);
+    margin-left:2%;
+    margin-right:2%;
+}
+.table2 {
+    min-width: 300px;
+    text-align:justify;
+    margin: auto;
+    border-color: azure;
+    color: rgb(230, 230, 230);
+    background-color: rgb(103, 37, 255);
+    border: 8px double rgb(255, 146, 183); /* Рамка вокруг таблицы */ 
+    border-collapse: separate; /* Способ отображения границы */
+    
+    border-radius: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;  
+}
+img {
+    outline: 2px solid #34004d; /* Цветная рамка */
+    height: 180px;
+    margin: 5px;
+}
+.container {
+    background-color: rgba(255, 255, 255, 0.295);
+    border-radius: 15px;
+   }
+
+
+
+
+
+
