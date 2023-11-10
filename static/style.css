@@ -27,6 +27,14 @@ hr {
     margin-left: 15% !important;
     border-radius: 2px !important;
    }
+   a:hover {
+    color: rgb(255, 0, 0);
+    background: #ffffff;
+   }
+   a:visited {
+    color: #ffffff; /* Цвет посещенных ссылок */
+   }
+
 .bodystyle {
     background: linear-gradient(90deg, #f7c8ff, #fafac5) no-repeat; 
     min-height: 950px;
